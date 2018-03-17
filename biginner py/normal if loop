@@ -1,0 +1,6 @@
+a=mahendran
+if(a<=20):
+print(" eligible for your voting")
+else:
+print(" you have the not eligible for voting")
+    
