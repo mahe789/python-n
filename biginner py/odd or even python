@@ -1,0 +1,7 @@
+def mahi(h)
+	a=h
+	if(a%2==0):
+        print("even number")
+	else:
+		print("odd number")
+mahi(21)
